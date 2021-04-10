@@ -25,3 +25,4 @@ Random thoughts of interesting beers. If only I knew how to make them…
 * [Raspberry Milk Stout](5-raspberry.md)
 * [Belgian Triple](6-belgian.md)
 * [Breakfast Mild](7-breakfast.md)
+* [Ancient Weirdo](8-ancient.md)
