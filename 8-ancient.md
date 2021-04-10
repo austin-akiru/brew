@@ -1,3 +1,5 @@
+![brew8logo](images/brew8logo.png)
+
 # Ancient Weirdo
 
 I bought a mash tun! If you don't believe me, here it is.

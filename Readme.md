@@ -26,3 +26,19 @@ Random thoughts of interesting beers. If only I knew how to make them…
 * [Belgian Triple](6-belgian.md)
 * [Breakfast Mild](7-breakfast.md)
 * [Ancient Weirdo](8-ancient.md)
+
+# Process
+
+* Brew a beer
+* name it based on taste
+* write down recipe as i go along
+* translate to blog
+* convert tilt spreadsheet into graph for blog
+* add to untappd
+* generte qr code
+  * https://help.untappd.com/hc/en-us/articles/360033984852-Generate-a-QR-Code-to-a-Beer-Brewery-Venue-or-Check-In
+  * 
+* add to label
+* redisn label
+* print label
+* Drink
