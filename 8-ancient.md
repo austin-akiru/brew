@@ -93,6 +93,7 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * It looks and smells exactly like the beer it's trying to copy.
 * It tastes like a beer, but slightly lacking in the full flavour I was hopinh for.
 * Hopefully this will develop while it rests.
+* [Beer has been added to untappd](https://untappd.com/qr/beer/4260905).
 
 ![brew8beer](images/brew8beer.jpg)
 
