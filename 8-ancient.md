@@ -115,3 +115,6 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * 12L is minimum amount to liquor to start a brew with. ~2l is lost during the mash stage. ~3l is lost during the boil. ~1 is lost during bottling. If I want 12l at the end of the process I should sparge with ~6l of liquor.
 * 12 of liquor may be enough fluid to ocver the grain during the mash but does not leave enough to cover the immersion chiller. The chiller gets more coverage in a 13l fermenter but does bring some waste proruct when moveing from the one to the other. only chill in one vessel, preferably the mash / kettle.
 * Dogs like biscuits. make more next time.
+
+![brew8bottles](images/brew8bottles.jpg)
+
